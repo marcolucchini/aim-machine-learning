@@ -1,0 +1,28 @@
+Current metric is mse
+{'mean': 8.0, 'std': 6.69}
+abc non e' una metrica supportata
+{'corr': -1.0}
+     X0     y
+0  0.29 -0.54
+1  0.53  1.52
+2  0.19  1.21
+3  0.07  0.05
+4  0.79 -0.43
+{'mean': 0.0, 'std': 0.0}
+{'mean': 0.0, 'std': 0.0}
+{'corr': 1.0}
+{'mean': 0.93, 'std': 1.64}
+{'mean': 0.72, 'std': 0.64}
+{'corr': 0.35}
+{'mean': 4.01, 'std': 6.06}
+{'mean': 2.52, 'std': 4.04}
+{'mean': 2.48, 'std': 3.83}
+{'mean': 1.43, 'std': 2.11}
+{'corr': -0.21}
+{'corr': -0.12}
+{'k': 5}
+{'k': 57}
+{'k': 40}
+True
+True
+True
